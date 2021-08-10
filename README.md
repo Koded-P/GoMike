@@ -5,7 +5,13 @@
 <h2>Project Brief</h2>
 <p>Mike is a freelance website designer based in Atlanta and wants to optimize his website to gain more clients for his business</p>
 
+<h2>Before SEO</h2>
 <img src="screenshots/before_SEO_page_one.png"></img>
+<img src="screenshots/before_SEO_page_two.png"></img>
+
+<h2>After SEO</h2>
+<img src="screenshots/page one_SEO.png"></img>
+<img src="screenshots/page two_SEO.png"></img>
   
 <h2>Tasks</h2>
 <ul>
