@@ -36,3 +36,6 @@
 <li><p>Removed the keywords contained in the Meta-tag recognised as Blackhat tactics</p></li>
 <li><p>Added a title to both pages for best SEO practices</p></li>
 </ul>
+
+<h2>Page Link</h2>
+<p>https://koded-p.github.io/GoMike/</p>
