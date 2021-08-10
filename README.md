@@ -6,9 +6,6 @@
 <p>Mike is a freelance website designer based in Atlanta and wants to optimize his website to gain more clients for his business</p>
 
 <h2>Before Search Engine Optimization</h2>
-<img src="img/atlanta%20web%20designer%20mike.png" width="100" height="" alt="before page one search engine optimization"></img>
-
-
 <h2>Optimization(s) on Website</h2>
 <ul>
 <li><p>optimized images on the site to resolve crawbility issues and reduce loading time</p></li>
