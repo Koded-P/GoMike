@@ -7,10 +7,7 @@
 
 <h2>Before Search Engine Optimization</h2>
 <img src="img/atlanta%20web%20designer%20mike.png" width="100" height="" alt="before page one search engine optimization"></img>
-<img src="screenshots/before_SEO_page_two.png" width="100" height="" alt="before Page two search engine optimization"></img>
-<h2>After Search Engine Optimization</h2>
-<img src="screenshots/page one_SEO.png" width="100" height="" alt="before page one search engine optimization"></img>
-<img src="screenshots/page two_SEO.png" width="100" height="" alt="before page two search engine optimization"></img>
+
 
 <h2>Optimization(s) on Website</h2>
 <ul>
