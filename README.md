@@ -4,6 +4,14 @@
 <h1>GoMike Designs</h1>
 <h2>Project Brief</h2>
 <p>Mike is a freelance website designer based in Atlanta and wants to optimize his website to gain more clients for his business</p>
+
+<h2>Before Search Engine Optimization</h2>
+<img src="screenshots/before_SEO_page_one.png" class="center-block image-resize-mode" width="100" height="" alt="before page one search engine optimization"/>
+<img src="screenshots/before_SEO_page_two.png" class="center-block image-resize-mode" width="100" height="" alt="before Page two search engine optimization"/>
+<h2>After Search Engine Optimization</h2>
+<img src="screenshots/page one_SEO.png" class="center-block image-resize-mode" width="100" height="" alt="before page one search engine optimization"/>
+<img src="screenshots/page two_SEO.png" class="center-block image-resize-mode" width="100" height="" alt="before page two search engine optimization"/>
+
 <h2>Optimization(s) on Website</h2>
 <ul>
 <li><p>optimized images on the site to resolve crawbility issues and reduce loading time</p></li>
