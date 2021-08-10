@@ -4,6 +4,8 @@
 <h1>GoMike Designs</h1>
 <h2>Project Brief</h2>
 <p>Mike is a freelance website designer based in Atlanta and wants to optimize his website to gain more clients for his business</p>
+
+<img src="screenshots/before_SEO_page_one.png"></img>
   
 <h2>Tasks</h2>
 <ul>
@@ -13,7 +15,6 @@
 <li><p>Demonstrate that your adjustments have improved the website by providing a before-and-after comparison of the results from Google’s Lighthouse tool, accounting for all action taken to optimize the website.</p></li>
 </ul>
 
-<<<<<<< HEAD
 <h2>Before Search Engine Optimization</h2>
 <h2>After Search Engine Optimization</h2>
 
@@ -25,8 +26,6 @@
 <li><p>Demonstrate that your adjustments have improved the website by providing a before-and-after comparison of the results from Google’s Lighthouse tool, accounting for all action taken to optimize the website.</p></li>
 </ul>
 
-=======
->>>>>>> b77f82db4bccdd9d47b0391b667451a0f88b8f5a
 <h2>Optimization(s) on Website</h2>
 <ul>
 <li><p>optimized images on the site to resolve crawbility issues and reduce loading time</p></li>
