@@ -21,9 +21,6 @@
 <li><p>Demonstrate that your adjustments have improved the website by providing a before-and-after comparison of the results from Google’s Lighthouse tool, accounting for all action taken to optimize the website.</p></li>
 </ul>
 
-<h2>Before Search Engine Optimization</h2>
-<h2>After Search Engine Optimization</h2>
-
 <h2>Tasks</h2>
 <ul>
 <li><p>Audit the existing website by identifying relevant SEO and accessibility issues, noting an explanation and a credible reference (documentation, research paper, journal…) for each one.</p></li>
