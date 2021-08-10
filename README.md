@@ -5,6 +5,9 @@
 <h2>Project Brief</h2>
 <p>Mike is a freelance website designer based in Atlanta and wants to optimize his website to gain more clients for his business</p>
 
+<h2>Before Optimization</h2>
+<h2>After Optimization</h2>
+
 <h2>Tasks</h2>
 <ul>
 <li><p>Audit the existing website by identifying relevant SEO and accessibility issues, noting an explanation and a credible reference (documentation, research paper, journal…) for each one.</p></li>
