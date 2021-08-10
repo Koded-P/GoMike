@@ -3,9 +3,7 @@
 <body>
 <h1>GoMike Designs</h1>
 
-<h2>Optimized Content:</h2>
-<li><h3><b>Keywords</b></h3></li><ul>
-<li><p>&emsp;Replaced keywords in meta tag with recommended keywords</p></li><ul>
-<li><p>&emsp;Reference: Google Ads Keyword Planner</p></li></ul>
-<li><p>&emsp;Additional text was added to page to increase keyword recognition without using Blackhat tactics</p></li><ul>
-<li><p>&emsp;Note: Blackhat tactics were used and have been removed</p></li></ul><ul>
+<h2>Optimizations on Website</h2>
+<li><p>&emsp;Removed the keywords contained in the Meta-tag recognised as Blackhat tactics</p></li><ul>
+<li><p>&emsp;Added a title to both pages for best SEO practices</p></li><ul>
+<li><p>&emsp;optimized images on the site to resolve crawbility issues and reduce loading time</p></li></ul><ul>
